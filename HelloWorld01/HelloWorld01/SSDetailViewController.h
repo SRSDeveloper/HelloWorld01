@@ -2,7 +2,7 @@
 //  SSDetailViewController.h
 //  HelloWorld01
 //
-//  Created by David Putter on 16/11/2012.
+//  Created by David Potter on 16/11/2012.
 //  Copyright (c) 2012 Stratex Systems. All rights reserved.
 //
 
